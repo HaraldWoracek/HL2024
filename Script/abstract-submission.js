@@ -7,4 +7,4 @@ clickBtn.addEventListener('click', function(event) { button.disabled = false; Bu
 
 const openInNewTab = (url) => { window.open(url, "_blank"); }
 
-button.addEventListener('click', () => { openInNewTab("https://owncloud.tuwien.ac.at/index.php/s/n1XxaHiLfeFPvAU"); });
+button.addEventListener('click', () => { openInNewTab("https://owncloud.tuwien.ac.at/index.php/s/ILSNVC1EIJup4lV"); });
